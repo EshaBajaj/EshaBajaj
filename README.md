@@ -35,23 +35,6 @@
 
 ---
 
-## 📈 Tech Proficiency Overview
-
-> Pie-bar styled progress representation (based on self-evaluation)
-
-| Language/Tool | Proficiency |
-|---------------|-------------|
-| C             | 85%         |
-| C++           | 75%         | 
-| Java          | 60%         | 
-| Python        | 45%         | 
-| HTML/CSS      | 85%         | 
-| JavaScript    | 40%         | 
-| Bootstrap     | 70%         | 
-| Git & GitHub  | 75%         | 
-
----
-
 ## 💻 Open Source & Projects
 
 ### 📨 Sandesh – CLI Messenger (In Progress)
